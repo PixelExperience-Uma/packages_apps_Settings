@@ -648,6 +648,8 @@
     <string name="bluetooth_enter_passkey_other_device" msgid="8270426446247344709">"អ្នក​ក៏​អាច​ត្រូវ​បញ្ចូល​លេខ​កូដ​នេះ​លើ​ឧបករណ៍​ផ្សេង។"</string>
     <string name="bluetooth_paring_group_msg" msgid="4609515924670823316">"បញ្ជាក់ ដើម្បីផ្គូផ្គងជាមួយសំណុំដែលបានសម្របសម្រួល"</string>
     <string name="bluetooth_pairing_shares_phonebook" msgid="4329325125260724843">"ផ្ដល់​សិទ្ធិ​អនុញ្ញាត​ចូល​ប្រើ​ទំនាក់ទំនង​ និង​ប្រវត្តិ​ហៅ​ទូរសព្ទ​របស់អ្នក"</string>
+    <string name="bluetooth_pairing_confirmation_title" msgid="3359642089708714808">"ពិនិត្យមើលកូដផ្គូផ្គង"</string>
+    <string name="bluetooth_pairing_confirmation_msg" msgid="8204761740738350792">"ពិនិត្យមើលថាតើកូដនេះត្រូវគ្នានឹងកូដនៅលើ <xliff:g id="DEVICE_NAME">%1$s</xliff:g>។\n\nសម្រាប់សុវត្ថិភាពរបស់អ្នក សូមកុំបញ្ចូលកូដនេះនៅកន្លែងណាមួយឱ្យសោះ។"</string>
     <string name="bluetooth_error_title" msgid="2284738188253690278"></string>
     <string name="bluetooth_connecting_error_message" msgid="3941893154784152112">"មិន​អាច​តភ្ជាប់​ទៅ <xliff:g id="DEVICE_NAME">%1$s</xliff:g> ។"</string>
     <string name="bluetooth_preference_found_media_devices" msgid="830061195998352840">"ឧបករណ៍​ដែល​អាច​ភ្ជាប់បាន"</string>
